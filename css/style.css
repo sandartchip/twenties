@@ -133,7 +133,7 @@ button.active {
     padding: 10px 15px; }
   .section.love_talk .article_cell {
     padding: 14px 15px; }
-  .section.fashion_beauty, .section.love_talk, .section.love_skill {
+  .section.fashion_beauty .inner, .section.love_talk .inner, .section.love_skill .inner {
     padding-bottom: 35px; }
 
 /* 1. Main */

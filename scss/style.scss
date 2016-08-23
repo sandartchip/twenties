@@ -203,7 +203,9 @@ button.active {
 		}
 	}
 	&.fashion_beauty, &.love_talk, &.love_skill {
-		padding-bottom: 35px;
+		.inner {
+			padding-bottom: 35px;
+		}
 	}
 }
 
